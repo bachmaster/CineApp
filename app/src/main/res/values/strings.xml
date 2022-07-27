@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CineApp</string>
+    <string name="cine_luna_app">Cine Luna App</string>
+    <string name="ingrese_su_nombre">Ingrese su nombre:</string>
+    <string name="login">Login</string>
+    <string name="alumnoBruno">Bruno Andre Chirinos Molina\n(20162974)</string>
+    <string name="alumnoJeanPierre">Jean Pierre Soto Tipacti\n(20191946)</string>
+    <string name="AlumnoLeonardo">Leonardo Guillermo Falcón Choque\n(20190702)</string>
+    <string name="regresar">Regresar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
